@@ -62,7 +62,7 @@ if __name__ == "__main__":
     |                                                                                                |
     |--------------------------------------------Coded by Biplav--------------------------------------|''')
 
-    print("\nGithub: https://github.com/0xMrR0b0t/TPScanner\n")
+    print("\nGithub: https://github.com/BiplavBasnet/Port-Scanner-using-Pyhton.git\n")
     
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
     
